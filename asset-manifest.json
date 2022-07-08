@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/randomQuotes/static/css/main.cfa82fc2.css",
+    "main.js": "/randomQuotes/static/js/main.c2e8ed79.js",
+    "static/media/bcg.jpg": "/randomQuotes/static/media/bcg.391883b2245f42dbcde1.jpg",
+    "index.html": "/randomQuotes/index.html",
+    "main.cfa82fc2.css.map": "/randomQuotes/static/css/main.cfa82fc2.css.map",
+    "main.c2e8ed79.js.map": "/randomQuotes/static/js/main.c2e8ed79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa82fc2.css",
+    "static/js/main.c2e8ed79.js"
+  ]
+}
